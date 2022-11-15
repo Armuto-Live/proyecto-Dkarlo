@@ -52,7 +52,7 @@ export const ProductList = () => {
           </Select>
         </Filter>
         <Filter>
-          <FilterText>Filtro 2</FilterText>
+          <FilterText>Filtro por precio</FilterText>
           <Select>
             <Option>El más nuevo</Option>
             <Option>Precio (asc)</Option>
